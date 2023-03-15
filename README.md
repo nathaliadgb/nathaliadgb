@@ -1,10 +1,10 @@
 Hi, I’m @nathaliadgb
 
-I am an Electronics Engineer from Brazil 🇧🇷
+I am an Electronics Engineer from Brazil 🇧🇷 currently living in the London 🇬🇧
 
-I am currently working with hardware acceleration of imaging algortihms at Politecnico di Torino for my Master's thesis
+I have a BSc in Electronics Engineering and studies Photonics and Nanotechnologies for my Master's.
 
-Interested in FPGAs, imaging systems, system engineering, biomedical applications and photonics
+Interested in working multi-disciplinary projects :)
 
 <!---
 nathaliadgb/nathaliadgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
