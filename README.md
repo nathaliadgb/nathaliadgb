@@ -4,7 +4,7 @@ I am an Electronics Engineer from Brazil 🇧🇷 currently living in the London
 
 I have a BSc in Electronics Engineering and studies Photonics and Nanotechnologies for my Master's.
 
-Interested in working multi-disciplinary projects :)
+Interested in working in multi-disciplinary projects :)
 
 <!---
 nathaliadgb/nathaliadgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
