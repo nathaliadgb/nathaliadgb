@@ -2,7 +2,7 @@ Hi, I’m @nathaliadgb
 
 I am an Electronics Engineer from Brazil 🇧🇷 currently living in the London 🇬🇧
 
-I have a BSc in Electronics Engineering and studies Photonics and Nanotechnologies for my Master's.
+I have a BSc in Electronics Engineering and studied Photonics and Nanotechnologies during my Master's.
 
 Interested in working in multi-disciplinary projects :)
 
